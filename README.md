@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Rediet and I'm  from Ethiopia </h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/free-photo/industrial-designer-digital-art_23-2151585315.jpg?semt=ais_hybrid"  />
+<img align="right" height="230" src="https://img.freepik.com/free-photo/industrial-designer-digital-art_23-2151585315.jpg?semt=ais_hybrid"  />
 
 ###
 
@@ -41,3 +41,5 @@
 </div>
 
 ###
+  
+
