@@ -32,9 +32,8 @@
 </div>
 
 ---
-
-### 📈 GitHub Stats
-![Rediet's GitHub stats](https://github.com/Redietabay/Redietabay)
+### 📈 GitHub Stats  
+![Rediet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redietabay&show_icons=true&theme=radical)
 
 ---
 
