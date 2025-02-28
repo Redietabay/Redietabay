@@ -10,7 +10,7 @@
 - 🎓 Studying **Data Science** at University
 - 💡 Always eager to **learn and explore new technologies**
 - 🌍 Looking for **remote and freelance opportunities**
-- 📩 Reach me at **your_email@example.com**
+- 📩 Reach me at **abayrediet7@gmail.com**
 
 ---
 
@@ -34,7 +34,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Rediet's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Rediet's GitHub stats](https://github.com/Redietabay/Redietabay)
 
 ---
 
